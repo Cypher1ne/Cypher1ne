@@ -1,7 +1,8 @@
 <!-- Hacker GIF Header -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Welcome+to+Soumitra's+Lab;Cybersecurity+%7C+CTFs+%7C+Bug+Bounties;Hack+to+Learn+%F0%9F%94%90+Learn+to+Hack" />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Soumitra Patra</h1>
 <h3 align="center">Cybersecurity Explorer | Ethical Hacker | Bug Bounty Aspirant | CTF Addict</h3>
