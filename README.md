@@ -3,8 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=850&height=120&lines=┌──(cypher1ne㉿linux)-[~/cyber];└─$+echo+Welcome+to+Cypher+One;Red+Team+Ops+%7C+Web+Hacking+%7C+CTFs;Own+%24ystems+%7C+Drop+Logs+%7C+Disappear+%F0%9F%92%92" />
 </p>
 
-
-
 <h1 align="center">Hi 👋, I'm Soumitra Patra</h1>
 <h3 align="center">Cybersecurity Explorer | Ethical Hacker | Bug Bounty Aspirant | CTF Addict</h3>
 
@@ -88,9 +86,9 @@
 ### 📰 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Hacked My Own Wi-Fi — Just for Fun](https://medium.com/@cypher.one/your-blog-link)
-- [Top 5 Beginner Mistakes in CTFs (And How to Avoid Them)](https://medium.com/@cypher.one/your-blog-link)
-- [How I Became Top 1% on TryHackMe in 90 Days](https://medium.com/@cypher.one/your-blog-link)
+- [How I Hacked My Own Wi-Fi — Just for Fun](https://medium.com/@cypher.one/i-hacked-my-own-wifi-heres-how-8c5e11272c31)
+- [How to Make Money with Haking (Ethical Way)](https://medium.com/@cypher.one/how-to-make-money-with-hacking-ethical-way-ca8b188b3963)
+- [Basic Pentesting Room -- TryHackme Walkthrough](https://medium.com/@cypher.one/basic-pentesting-room-tryhackme-walkthrough-2c5403adc3a4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
