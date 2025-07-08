@@ -1,7 +1,8 @@
 <!-- Hacker GIF Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=3500&pause=1000&color=0FFFC0&center=true&vCenter=true&multiline=true&width=850&height=140&lines=Welcome+to+Cypher+One+%F0%9F%92%BB;Red+Team+Ops+%7C+Web+App+Hacking+%7C+CTFs;Stay+Low+and+Own+Everything+%F0%9F%94%92" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=850&height=120&lines=┌──(cypher1ne㉿linux)-[~/cyber];└─$+echo+Welcome+to+Cypher+One;Red+Team+Ops+%7C+Web+Hacking+%7C+CTFs;Own+%24ystems+%7C+Drop+Logs+%7C+Disappear+%F0%9F%92%92" />
 </p>
+
 
 
 <h1 align="center">Hi 👋, I'm Soumitra Patra</h1>
