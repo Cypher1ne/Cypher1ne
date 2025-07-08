@@ -8,7 +8,7 @@
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hacker+in+the+making...;Top+1%25+on+TryHackMe;Web+App+Pentester+%7C+eJPT+Certified;Learning+every+single+day+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hacker+in+the+Making...;Top+1%25+on+TryHackMe;Web+App+Pentester+%7C+eJPT+Certified" alt="Typing SVG" />
 </p>
 
 ---
