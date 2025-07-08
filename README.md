@@ -1,6 +1,6 @@
 <!-- Hacker GIF Header -->
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" alt="hacker banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=3500&pause=1000&color=0FFFC0&center=true&vCenter=true&multiline=true&width=850&height=140&lines=Welcome+to+Cypher+One+%F0%9F%92%BB;Red+Team+Ops+%7C+Web+App+Hacking+%7C+CTFs;Stay+Low+and+Own+Everything+%F0%9F%94%92" />
 </p>
 
 
