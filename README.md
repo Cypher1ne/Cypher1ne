@@ -27,23 +27,42 @@
 
 ### 🧰 Tech Stack & Hacking Arsenal
 
-#### 💻 Languages & Frontend:
+#### 💻 Languages I Use:
 <p>
-  <img src="https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-%23e34f26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-%23e34f26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-Basic-%2314354C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-Language-%2300599C?style=for-the-badge&logo=c&logoColor=white"/>
 </p>
 
 #### 🧠 Hacking Tools & Platforms:
 <p>
   <img src="https://img.shields.io/badge/Linux-%23000000?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Burp%20Suite-ff5722?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Parrot%20OS-1F2025?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Burp%20Suite-%23FF5722?style=for-the-badge&logo=burpsuite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nmap-3982CE?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Metasploit-3f0071?style=for-the-badge&logo=metasploit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TryHackMe-%2312100E.svg?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metasploit-%233f0071?style=for-the-badge&logo=metasploit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-%23005F87?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gobuster-%23F05032?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FFUF-%23FFFFFF?style=for-the-badge&logo=fastly&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Enum4linux-%23darkred?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Netcat-333333?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Nikto-%23CC0000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hydra-%2320232A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/John%20The%20Ripper-%230A0A0A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OpenVAS-%2300AC47?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/theHarvester-%23006096?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ReconNG-%23FF1493?style=for-the-badge"/>
+</p>
+
+#### 🌐 Platforms & Labs:
+<p>
+  <img src="https://img.shields.io/badge/TryHackMe-%2312100E?style=for-the-badge&logo=tryhackme&logoColor=white"/>
   <img src="https://img.shields.io/badge/HackTheBox-%23111111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/>
+  <img src="https://img.shields.io/badge/PortSwigger-Labs-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/INE%20Cybersecurity-00457C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Obsidian%20Notes-%234B0082?style=for-the-badge&logo=obsidian&logoColor=white"/>
 </p>
 
 ---
