@@ -1,33 +1,43 @@
-<!-- Hacker GIF Header -->
+<!-- Terminal-Style Hacker Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=850&height=120&lines=┌──(cypher1ne㉿linux)-[~/cyber];└─$+echo+Welcome+to+Cypher+One;Red+Team+Ops+%7C+Web+Hacking+%7C+CTFs;Own+%24ystems+%7C+Drop+Logs+%7C+Disappear+%F0%9F%92%92" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=900&height=120&lines=┌──(soumitra㉿linux)-[~/cyber];└─$+echo+Welcome+to+Soumitra's+Lab;Cybersecurity+Explorer+%7C+Red+Team+Ops+%7C+Web+Hacking;Own+%24ystems+%7C+Drop+Logs+%7C+Disappear+%F0%9F%92%92" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Soumitra Patra</h1>
 <h3 align="center">Cybersecurity Explorer | Ethical Hacker | Bug Bounty Aspirant | CTF Addict</h3>
 
-<!-- Typing animation -->
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hacker+in+the+Making...;Top+1%25+on+TryHackMe;Web+App+Pentester+%7C+eJPT+Certified" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=750&height=100&lines=Hacker+in+the+Making...;Top+1%25+on+TryHackMe;Web+App+Pentester+%7C+eJPT+Certified;Building+Open-Source+Hacking+Tools" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧠 About Me
-
-- 🛡️ Currently preparing for: [**eJPT — Junior Penetration Tester**](https://ine.com/security/certifications/ejpt-certification)
+## 🧠 About Me
+- 🛡️ eJPT v2 and Google Cyber Security Professional Certified
 - 👾 Specializing in: **Web App Hacking**, **Bug Bounties**, and **Red Teaming**
-- 🔭 Building: Open-source hacking tools, writeups, and recon scripts
-- ✍️ Blogging my hacking journey on: [**Medium (@cypher.one)**](https://medium.com/@cypher.one)
-- 📫 Reach me at: **soumitra92137@gmail.com**
+- 🔭 Working on: **Recon tools, CTF writeups, and automation scripts**
+- ✍️ Sharing my journey on: **[Medium](https://medium.com/@cypher.one)**
+- 📫 Contact: **soumitra92137@gmail.com**
 - 🤯 Fun Fact: *I hacked my fridge… it now sends me snacks over HTTP.*  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_My toaster 403'd me. I brute-forced breakfast._
+  
+---
+
+### Some Certifications
+
+<a href='https://certs.ine.com/c078750e-7606-4bcd-b281-ffef8c28c2df#acc.XCInVNb7'>
+<img  src="https://my.ine.com/img/els-badge.dec290ce.png" alt="Alt text" style="width:100px;">
+</a>
+<a href='#'>
+<img  src="https://tse4.mm.bing.net/th/id/OIP.kb9wRkoLYG7xxWV0YbkduwHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" alt="Alt text" style="width:100px;">
+</a>
+
 
 ---
 
-### 🧰 Tech Stack & Hacking Arsenal
+## 🧰 Tech Stack & Arsenal
 
-#### 💻 Languages I Use:
+#### 💻 Languages
 <p>
   <img src="https://img.shields.io/badge/HTML5-%23e34f26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -35,7 +45,7 @@
   <img src="https://img.shields.io/badge/C-Language-%2300599C?style=for-the-badge&logo=c&logoColor=white"/>
 </p>
 
-#### 🧠 Hacking Tools & Platforms:
+#### 🛠️ Tools & Frameworks
 <p>
   <img src="https://img.shields.io/badge/Linux-%23000000?style=for-the-badge&logo=linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
@@ -56,7 +66,7 @@
   <img src="https://img.shields.io/badge/ReconNG-%23FF1493?style=for-the-badge"/>
 </p>
 
-#### 🌐 Platforms & Labs:
+#### 🌐 Platforms & Labs
 <p>
   <img src="https://img.shields.io/badge/TryHackMe-%2312100E?style=for-the-badge&logo=tryhackme&logoColor=white"/>
   <img src="https://img.shields.io/badge/HackTheBox-%23111111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/>
@@ -67,39 +77,36 @@
 
 ---
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cypher1ne&theme=onedark&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SoumitraPatra&theme=onedark&row=1&column=6" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
-
+## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cypher1ne&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=cypher1ne&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SoumitraPatra&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SoumitraPatra&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-### 📰 Latest Blog Posts
-
+## 📰 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [My Ejpt Story - From "Are Yaar" to "Are Wah !" ](https://medium.com/@cypher.one/my-ejpt-story-from-arre-yaar-to-arey-wah-4eabecaa73a2)
 - [How I Hacked My Own Wi-Fi — Just for Fun](https://medium.com/@cypher.one/i-hacked-my-own-wifi-heres-how-8c5e11272c31)
-- [How to Make Money with Haking (Ethical Way)](https://medium.com/@cypher.one/how-to-make-money-with-hacking-ethical-way-ca8b188b3963)
+- [How to Make Money with Hacking (Ethical Way)](https://medium.com/@cypher.one/how-to-make-money-with-hacking-ethical-way-ca8b188b3963)
 - [Basic Pentesting Room -- TryHackme Walkthrough](https://medium.com/@cypher.one/basic-pentesting-room-tryhackme-walkthrough-2c5403adc3a4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-### 🔗 Connect With Me
-
+## 🔗 Connect With Me
 <p align="center">
-  <a href="https://twitter.com/cypher_1ne"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://instagram.com/soumitra_patra921"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://x.com/Cypher_1ne"><img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://medium.com/@cypher.one"><img src="https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="https://github.com/cypher1ne"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Cypher1ne"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
