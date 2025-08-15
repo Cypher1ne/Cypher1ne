@@ -29,7 +29,7 @@
 <img  src="https://my.ine.com/img/els-badge.dec290ce.png" alt="Alt text" style="width:100px;">
 </a>
 <a href='#'>
-<img  src="https://tse4.mm.bing.net/th/id/OIP.kb9wRkoLYG7xxWV0YbkduwHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" alt="Alt text" style="width:100px;">
+<img  src="https://images.credly.com/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="Alt text" style="width:100px;">
 </a>
 
 
