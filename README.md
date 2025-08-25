@@ -28,7 +28,7 @@
 <a href='https://certs.ine.com/c078750e-7606-4bcd-b281-ffef8c28c2df#acc.XCInVNb7'>
 <img  src="https://my.ine.com/img/els-badge.dec290ce.png" alt="Alt text" style="width:100px;">
 </a>
-<a href='#'>
+<a href='https://www.credly.com/badges/cb3cd91b-9dfa-4fbd-bf1b-be10cf8d7762'>
 <img  src="https://images.credly.com/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="Alt text" style="width:100px;">
 </a>
 
