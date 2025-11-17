@@ -14,7 +14,7 @@
 - 👾 Specializing in: **Web App Hacking**, **Bug Bounties**, and **Red Teaming**
 - 🔭 Working on: **Recon tools, CTF writeups, and automation scripts**
 - ✍️ Sharing my journey on: **[Medium](https://medium.com/@cypher.one)**
-- 📫 Contact: **soumitra92137@gmail.com**
+- 📫 Contact: **soumitra.patraa@gmail.com**
 - 🤯 Fun Fact: *I hacked my fridge… it now sends me snacks over HTTP.*  
   
 ---
