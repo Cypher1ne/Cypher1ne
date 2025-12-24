@@ -10,7 +10,7 @@
 ---
 
 ## 🧠 About Me
-- 🛡️ eJPT v2 and Google Cyber Security Professional Certified
+- 🛡️ eJPT v2, ICCA and Google Cyber Security Professional V2 Certified
 - 👾 Specializing in: **Web App Hacking**, **Bug Bounties**, and **Red Teaming**
 - 🔭 Working on: **Recon tools, CTF writeups, and automation scripts**
 - ✍️ Sharing my journey on: **[Medium](https://medium.com/@cypher.one)**
