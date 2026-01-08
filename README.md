@@ -27,7 +27,7 @@
 <a href='https://www.credly.com/badges/cb3cd91b-9dfa-4fbd-bf1b-be10cf8d7762'>
 <img  src="https://images.credly.com/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="Alt text" style="width:100px;">
 </a>
-<a href='#'>
+<a href='https://certs.ine.com/b26c2098-43a7-4094-8e5a-afd07da06ffd#acc.97U2jftG'>
 <img  src="https://assets.ine.com/certifications/icca/ICCA-badge.png" alt="Alt text" style="width:100px;">
 </a>
 
